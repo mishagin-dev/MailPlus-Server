@@ -1,5 +1,6 @@
 !.gitkeep
 .vscode
+/.idea/
 
 /official/extract
 /official/syno-archive
